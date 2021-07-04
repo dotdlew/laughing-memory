@@ -8,7 +8,9 @@ Update an existing budget tracker application to allow for offline access and fu
 Daniel H. Lewis
 
 # Deployment
+Heroku: https://evening-taiga-14569.herokuapp.com/
 
+Github: https://github.com/dotdlew/laughing-memory
 # User Story
 AS AN avid traveler
 
