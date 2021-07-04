@@ -1,5 +1,3 @@
-const { response } = require("express");
-
 // create variable to hold db connection
 let db;
 // establish a connection to IndexedDB database called 'budget_tracker' and set it to version 1
